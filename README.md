@@ -6,3 +6,6 @@ git remote add origin https://github.com/zhaigang/gggweb01.git
 git branch -M master
 git push -u origin master
 ```
+# 关于环境
+## pip使用阿里源
+pip install django -i https://mirrors.aliyun.com/pypi/simple
